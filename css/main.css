@@ -3,5 +3,9 @@
     border-radius: 0px;
 }
 .bg-gray{
-    background-color: #eee;
+    background-color: #eeeeee;
+
+}
+.bg-light-gray{
+    background-color: #f6f6f6;
 }
